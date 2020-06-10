@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Community</string>
+
+    <string name="drawer_close" translatable="false">Drawer Colose</string>
+    <string name="drawer_open" translatable="false">Drawer Open</string>
+    <string name="write_your_information" />
+    <string name="share">Share</string>
+    <string name="products">Products</string>
+    <string name="jobs">jobs</string>
+    <string name="postapartment_for_rent">PostApartment For Rent</string>
+    <string name="share_item_for_sale">Share Item For Sale</string>
+    <string name="scholarships">Scholarships</string>
+    <string name="kids_english_classes">Kids English Classes</string>
+    <string name="helps">Helps</string>
+    <string name="families">Families</string>
+    <string name="work_information">Work Information</string>
+    <string name="enter_work_place">Enter Work Place</string>
+    <string name="enter_work_type">Enter Work type</string>
+    <string name="shift_time">Shift Time</string>
+    <string name="enter_employer_phone">Enter Employer Phone</string>
+    <string name="post_now">Post Now</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item android:id="@+id/share_items"
+        android:title="@string/share_item_for_sale"
+        android:icon="@drawable/ic_share"/>
+
+
+<!--    <item android:id="@+id/house"-->
+<!--        android:title="Find Apartment For Rent"-->
+<!--        android:icon="@drawable/ic_home"/>-->
+
+        <item android:id="@+id/post_Apartment"
+            android:title="@string/postapartment_for_rent"
+            android:icon="@drawable/ic_find_work"/>
+
+
+<!--    <item android:id="@+id/product"-->
+<!--        android:title="Products"-->
+<!--        android:icon="@drawable/ic_family"/>-->
+
+    <item android:id="@+id/coors"
+        android:title="@string/scholarships"
+        android:icon="@drawable/ic_coors"/>
+
+    <item android:id="@+id/kid"
+        android:icon="@drawable/ic_kids"
+        android:title="@string/kids_english_classes"/>
+
+    <item android:id="@+id/help"
+        android:title="@string/helps"
+        android:icon="@drawable/ic_help"/>
+
+    <item android:id="@+id/family"
+        android:title="@string/families"
+        android:icon="@drawable/ic_family"/>
+</menu>

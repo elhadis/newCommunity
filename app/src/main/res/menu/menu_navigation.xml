@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<!--    <item android:id="@+id/house"-->
+<!--        android:title="Find Apartment For Rent"-->
+<!--        android:icon="@drawable/ic_home"/>-->
+
+    <item android:id="@+id/product"
+        android:title="@string/products"
+        android:icon="@drawable/ic_family"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/find_job"
+        android:title="@string/jobs"
+        android:tooltipText="20dp"
+
+        android:icon="@drawable/ic_home"/>
+
+    <item android:id="@+id/find_apartment"
+        android:title="@string/share_item_for_sale"
+        android:icon="@drawable/ic_search"/>
+
+    <item android:id="@+id/share_job"
+        android:title="@string/share"
+        android:icon="@drawable/ic_share"/>
+
+
+
+
+
+</menu>

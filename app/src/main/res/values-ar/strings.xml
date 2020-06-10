@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Community</string>
+
+    <string name="drawer_close" translatable="false">Drawer Colose</string>
+    <string name="drawer_open" translatable="false">Drawer Open</string>
+    <string name="write_your_information" />
+    <string name="share">نشر</string>
+    <string name="products">منتجات</string>
+    <string name="jobs">فرص عمل</string>
+    <string name="postapartment_for_rent">شقق للايجار</string>
+    <string name="share_item_for_sale">منتجات للبيع</string>
+    <string name="scholarships">منح دراسية</string>
+    <string name="kids_english_classes">كورس لغة انجليزية للاطفال</string>
+    <string name="helps">طلب للمساعدة</string>
+    <string name="families">Families</string>
+    <string name="work_information">بيانات العمل</string>
+    <string name="enter_work_place">مكان العمل</string>
+    <string name="enter_work_type">نوع العمل</string>
+    <string name="shift_time">زمن العمل</string>
+    <string name="enter_employer_phone">تلفون صاحب العمل</string>
+    <string name="post_now">مشاركة</string>
+</resources>
